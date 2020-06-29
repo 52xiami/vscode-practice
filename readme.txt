@@ -6,3 +6,4 @@ update from mybranch
 >>>>>>> mybranch
 my subbranch update 
 another update
+update
